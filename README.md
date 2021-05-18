@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ricardos6
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning .Net Framework with C# for my Final Assignment for the Computer Science degree. Also learning JavaScript React and Redux
-- 📫 How to reach me: r.sanchezarias6@gmail.com
+- 📚 I’m currently studying Computer Engineering in A Coruña, Spain
+- 👨‍💻 Developing a .NET Framework application in C# for the Final Assignment of the degree. Also interested in everything else :)
+- 📫 r.sanchezarias6@gmail.com
