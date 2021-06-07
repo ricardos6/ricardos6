@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @ricardos6
 - 📚 I’m currently studying Computer Engineering in A Coruña, Spain
-- 👨‍💻 Developing a .NET Framework application in C# for for my final university degree project. Also interested in everything else :)
 - 📫 r.sanchezarias6@gmail.com
