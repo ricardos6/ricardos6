@@ -1,2 +1,1 @@
-- 📚 I’m currently studying Computer Engineering in A Coruña, Spain
 - 📫 r.sanchezarias6@gmail.com
